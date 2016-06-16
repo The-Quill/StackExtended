@@ -1,4 +1,4 @@
-# StackExtended
+# [StackExtended](http://the-quill.github.io/StackExtended/)
 A list of userscripts and extensions for Stack Exchange
 
 
